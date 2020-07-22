@@ -1,0 +1,5 @@
+{
+  "tenantUUID" : "mup27836",
+  "tenantToken" : "Jixe1t8U98eU479V",
+  "communicationEndpoints" : [ "https://mup27836.live.dynatrace.com:443" ]
+}
